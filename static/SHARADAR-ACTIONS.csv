@@ -1,0 +1,243 @@
+date,action,ticker,name,value,contraticker,contraname
+2020-10-02,acquisitionof,CVX,Chevron Corp,4773.7,NBL,Noble Energy Inc
+2020-09-30,acquisitionof,JNJ,Johnson & Johnson,6200.3,MNTA,Momenta Pharmaceuticals Inc
+2020-08-31,split,TSLA,Tesla Inc,5.0,N/A,
+2020-08-31,split,AAPL,Apple Inc,4.0,N/A,
+2020-02-07,acquisitionof,UNH,Unitedhealth Group Inc,303.9,DPLO,Diplomat Pharmacy Inc
+2020-01-15,acquisitionof,MRK,Merck & Co Inc,2414.7,ARQL,Arqule Inc
+2019-07-30,acquisitionof,PFE,Pfizer Inc,10610.8,ARRY1,Array Biopharma Inc
+2019-07-08,acquisitionof,IBM,International Business Machines Corp,33429.8,RHT,Red Hat Inc
+2019-06-03,split,DD,Dupont De Nemours Inc,0.33333,N/A,
+2019-06-03,tickerchangefrom,DD,Dupont De Nemours Inc,,DWDP,
+2019-06-03,tickerchangeto,DD,Dupont De Nemours Inc,,DD,
+2019-06-03,spinoff,DD,Dupont De Nemours Inc,0.33333,CTVA,Corteva Inc
+2019-05-16,acquisitionof,TSLA,Tesla Inc,208.7,MXWL,Maxwell Technologies Inc
+2019-04-02,spinoff,DD,Dupont De Nemours Inc,0.33333,DOW,Dow Inc
+2019-04-01,acquisitionof,MRK,Merck & Co Inc,282.9,IMDZ,Immune Design Corp
+2019-02-26,spinoff,GE,General Electric Co,0.00537,WAB,Westinghouse Air Brake Technologies Corp
+2018-10-08,acquisitionof,BA,Boeing Co,3196.5,KLXI,Klx Inc
+2018-02-27,acquisitionof,VZ,Verizon Communications Inc,2341.2,STRP,Straight Path Communications Inc
+2018-02-02,acquisitionof,CSCO,Cisco Systems Inc,1737.6,BSFT,Broadsoft Inc
+2017-11-17,acquisitionof,UNH,Unitedhealth Group Inc,2193.9,ABCO,Advisory Board Co
+2017-09-01,tickerchangeto,DD,Dupont De Nemours Inc,,DWDP,
+2017-09-01,tickerchangefrom,DD,Dupont De Nemours Inc,,DOW,
+2017-08-31,acquisitionof,INTC,Intel Corp,13896.3,MBLY,Mobileye Nv
+2017-08-31,acquisitionof,DD,Dupont De Nemours Inc,72835.0,DD1,Dupont E I De Nemours & Co
+2017-07-05,spinoff,GE,General Electric Co,0.0,BKR,Baker Hughes Co
+2017-07-03,acquisitionof,GE,General Electric Co,24540.7,BHI,Baker Hughes Inc
+2017-06-16,acquisitionof,VZ,Verizon Communications Inc,50382.1,YHOO,Yahoo Inc
+2017-03-23,acquisitionof,UNH,Unitedhealth Group Inc,2268.6,SCAI,Surgical Care Affiliates Inc
+2017-02-22,acquisitionof,XOM,Exxon Mobil Corp,2397.3,IOC,Interoil Corp
+2016-12-07,acquisitionof,MSFT,Microsoft Corp,26560.3,LNKD,Linkedin Corp
+2016-11-18,acquisitionof,TSLA,Tesla Inc,2049.0,SCTY1,Solarcity Corp
+2016-11-04,acquisitionof,VZ,Verizon Communications Inc,2350.0,FLTX,Fleetmatics Group Plc
+2016-09-28,acquisitionof,PFE,Pfizer Inc,13513.2,MDVN,Medivation Inc
+2016-06-23,acquisitionof,PFE,Pfizer Inc,4500.4,ANAC,Anacor Pharmaceuticals Inc
+2015-12-24,split,NKE,Nike Inc,2.0,N/A,
+2015-12-24,acquisitionof,INTC,Intel Corp,16342.2,ALTR1,Altera Corp
+2015-10-22,acquisitionof,VZ,Verizon Communications Inc,247.9,MM,Millennial Media Inc
+2015-10-13,acquisitionof,IBM,International Business Machines Corp,704.2,MRGE1,Merge Healthcare Inc
+2015-09-02,acquisitionof,PFE,Pfizer Inc,15555.4,HSP,Hospira Inc
+2015-07-23,acquisitionof,UNH,Unitedhealth Group Inc,12786.5,CTRX,Catamaran Corp
+2015-06-22,acquisitionof,VZ,Verizon Communications Inc,3916.3,AOL,Aol Inc
+2015-01-21,acquisitionof,MRK,Merck & Co Inc,7777.5,CBST,Cubist Pharmaceuticals Inc
+2014-08-05,acquisitionof,MRK,Merck & Co Inc,3711.8,IDIX,Idenix Pharmaceuticals Inc
+2014-07-31,spinoff,GE,General Electric Co,0.0,SYF,Synchrony Financial
+2014-06-09,split,AAPL,Apple Inc,7.0,N/A,
+2013-10-07,acquisitionof,CSCO,Cisco Systems Inc,2393.9,FIRE,Sourcefire Inc
+2013-07-01,acquisitionof,GE,General Electric Co,2997.0,LUFK,Lufkin Industries Inc
+2012-12-26,split,NKE,Nike Inc,2.0,N/A,
+2012-12-03,acquisitionof,IBM,International Business Machines Corp,1268.8,KNXA,Kenexa Corp
+2012-11-28,acquisitionof,MMM,3M Co,841.7,CRDN,Ceradyne Inc
+2012-10-26,acquisitionof,HD,Home Depot Inc,93.3,USHS,Us Home Systems Inc
+2012-10-04,acquisitionof,AAPL,Apple Inc,358.7,AUTH,Authentec Inc
+2012-08-13,split,KO,Coca Cola Co,2.0,N/A,
+2012-07-25,acquisitionof,VZ,Verizon Communications Inc,1268.6,HUTC,Hughes Telematics Inc
+2012-03-21,acquisitionof,JNJ,Johnson & Johnson,2637.2,CRXLY,Crucell Nv
+2012-02-14,acquisitionof,IBM,International Business Machines Corp,446.0,DMAN,Demandtec Inc
+2011-10-27,acquisitionof,PFE,Pfizer Inc,53.0,ICGN,Icagen Inc
+2011-07-08,acquisitionof,CAT,Caterpillar Inc,7493.9,BUCY,Bucyrus International Inc
+2011-05-13,acquisitionof,MRK,Merck & Co Inc,417.3,ISPH,Inspire Pharmaceuticals Inc
+2011-04-08,acquisitionof,VZ,Verizon Communications Inc,1280.0,TMRK,Terremark Worldwide Inc
+2011-02-28,acquisitionof,PFE,Pfizer Inc,3559.6,KG,King Pharmaceuticals Inc
+2011-02-28,acquisitionof,INTC,Intel Corp,7556.9,MFE,Mcafee Inc
+2011-02-17,acquisitionof,CVX,Chevron Corp,3643.6,ATLS2,Atlas Energy Inc
+2010-12-22,acquisitionof,GE,General Electric Co,442.6,CLRT,Clarient Inc
+2010-12-01,acquisitionof,MMM,3M Co,931.4,COGT1,Cogent Inc
+2010-11-10,acquisitionof,IBM,International Business Machines Corp,1695.2,NZ,Netezza Corp
+2010-10-05,acquisitionof,IBM,International Business Machines Corp,451.8,UNCA,Unica Corp
+2010-09-27,acquisitionof,JNJ,Johnson & Johnson,387.6,MEND,Micrus Endovascular Corp
+2010-08-05,acquisitionof,BA,Boeing Co,755.1,STST,Argon St Inc
+2010-07-02,spinoff,VZ,Verizon Communications Inc,0.25,FTRCQ,Frontier Communications Corp
+2010-06-29,listed,TSLA,Tesla Inc,2226.5,N/A,
+2010-06-25,acquisitionof,XOM,Exxon Mobil Corp,24432.1,XTO,Xto Energy Inc
+2009-12-17,acquisitionof,CSCO,Cisco Systems Inc,2522.1,STAR1,Starent Networks Corp
+2009-11-03,acquisitionof,MRK,Merck & Co Inc,46142.1,SGP,Schering Plough Corp
+2009-10-15,acquisitionof,PFE,Pfizer Inc,67273.5,WYE,Wyeth
+2009-10-02,acquisitionof,IBM,International Business Machines Corp,922.0,SPSS,Spss Inc
+2009-07-16,acquisitionof,INTC,Intel Corp,885.0,WIND,Wind River Systems Inc
+2009-07-10,acquisitionof,JNJ,Johnson & Johnson,893.9,CGRB,Cougar Biotechnology Inc
+2009-04-01,acquisitionof,DD,Dupont De Nemours Inc,15414.4,ROH,Rohm & Haas Co
+2009-01-23,acquisitionof,JNJ,Johnson & Johnson,1047.5,MNT,Mentor Corp
+2008-12-30,acquisitionof,JNJ,Johnson & Johnson,428.1,OMRI,Omrix Biopharmaceuticals Inc
+2008-12-18,acquisitionof,IBM,International Business Machines Corp,272.6,ILOG,Ilog Sa
+2008-10-29,acquisitionof,GE,General Electric Co,990.1,VITL1,Vital Signs Inc
+2008-10-14,acquisitionof,MSFT,Microsoft Corp,460.1,SRVY,Greenfield Online Inc
+2008-08-06,acquisitionof,VZ,Verizon Communications Inc,733.6,RCCC,Rural Cellular Corp
+2008-06-09,acquisitionof,PFE,Pfizer Inc,190.2,ENCY,Encysive Pharmaceuticals Inc
+2008-05-30,acquisitionof,JPM,Jpmorgan Chase & Co,1359.4,BSC1,Bear Stearns Companies Inc
+2008-05-09,acquisitionof,GS,Goldman Sachs Group Inc,537.6,WWIN1,Waste Industries Usa Inc
+2008-02-25,acquisitionof,UNH,Unitedhealth Group Inc,2363.5,SIE,Sierra Health Services Inc
+2008-01-31,acquisitionof,IBM,International Business Machines Corp,4832.2,COGN,Cognos Inc
+2008-01-04,acquisitionof,PFE,Pfizer Inc,213.1,COLY,Coley Pharmaceutical Group Inc
+2007-09-05,acquisitionof,IBM,International Business Machines Corp,212.7,DMCX,Datamirror Corp
+2007-08-15,acquisitionof,GS,Goldman Sachs Group Inc,1069.6,ARXX,Aeroflex Inc
+2007-08-10,acquisitionof,MSFT,Microsoft Corp,5368.8,AQNT,Aquantive Inc
+2007-05-25,acquisitionof,CSCO,Cisco Systems Inc,2867.9,WEBX,Webex Communications Inc
+2007-05-04,acquisitionof,GS,Goldman Sachs Group Inc,994.3,USIH,Usi Holdings Corp
+2007-04-03,split,NKE,Nike Inc,2.0,N/A,
+2007-02-26,acquisitionof,GE,General Electric Co,1149.3,TSY,Trustreet Properties Inc
+2007-02-01,acquisitionof,JNJ,Johnson & Johnson,1261.4,CONR,Conor Medsystems Inc
+2007-01-31,tickerchangeto,TRV,Travelers Companies Inc,,TRV,
+2007-01-31,tickerchangefrom,TRV,Travelers Companies Inc,,STA,
+2007-01-19,acquisitionof,PFE,Pfizer Inc,141.9,EMBX,Embrex Inc
+2006-12-29,acquisitionof,MRK,Merck & Co Inc,954.8,RNAI,Sirna Therapeutics Inc
+2006-10-20,acquisitionof,IBM,International Business Machines Corp,1225.5,ISSX,Internet Security Systems Inc
+2006-10-05,acquisitionof,IBM,International Business Machines Corp,685.1,MROI,Mro Software Inc
+2006-09-19,acquisitionof,BA,Boeing Co,1652.0,AVL1,Aviall Inc
+2006-08-07,acquisitionof,UNH,Unitedhealth Group Inc,53.0,NWIR,Nwh Inc
+2006-05-02,acquisitionof,GE,General Electric Co,3057.5,ARI1,Arden Realty Inc
+2006-03-30,acquisitionof,HD,Home Depot Inc,3107.1,HUG,Hughes Supply Inc
+2006-03-01,acquisitionof,JPM,Jpmorgan Chase & Co,647.2,CFSI,Collegiate Funding Services Inc
+2006-02-24,acquisitionof,CSCO,Cisco Systems Inc,6654.5,SFA,Scientific Atlanta Inc
+2006-02-17,acquisitionof,JNJ,Johnson & Johnson,508.4,PUMP1,Animas Corp
+2006-02-14,acquisitionof,IBM,International Business Machines Corp,796.1,MUSE,Micromuse Inc
+2006-01-06,acquisitionof,VZ,Verizon Communications Inc,6776.4,MCIP,Mci Inc
+2006-01-04,acquisitionof,GE,General Electric Co,1382.6,IDXC,Idx Systems Corp
+2005-12-20,acquisitionof,UNH,Unitedhealth Group Inc,7977.7,PHS,Pacificare Health Systems Inc
+2005-09-30,acquisitionof,PG,Procter & Gamble Co,58146.6,G1,Gillette Co
+2005-09-13,acquisitionof,PFE,Pfizer Inc,1776.5,MICU,Vicuron Pharmaceuticals Inc
+2005-08-11,acquisitionof,GS,Goldman Sachs Group Inc,10467.5,SDS1,Sungard Data Systems Inc
+2005-08-10,acquisitionof,CVX,Chevron Corp,18087.1,UCL1,Unocal Corp
+2005-08-02,acquisitionof,MMM,3M Co,1244.0,CUNO,Cuno Inc
+2005-07-14,split,CAT,Caterpillar Inc,2.0,N/A,
+2005-06-03,acquisitionof,JNJ,Johnson & Johnson,391.6,CLSR,Closure Medical Corp
+2005-05-31,split,UNH,Unitedhealth Group Inc,2.0,N/A,
+2005-04-29,acquisitionof,IBM,International Business Machines Corp,1101.8,ASCL,Ascential Software Corp
+2005-04-01,acquisitionof,JPM,Jpmorgan Chase & Co,126.3,VAST,Vastera Inc
+2005-03-15,acquisitionof,IBM,International Business Machines Corp,181.0,CRIO,Corio Inc
+2005-02-28,split,AAPL,Apple Inc,2.0,N/A,
+2005-02-22,acquisitionof,GE,General Electric Co,1001.4,ION1,Ionics Inc
+2004-12-06,acquisitionof,GE,General Electric Co,885.0,INVN1,Invision Technologies Inc
+2004-11-18,acquisitionof,CSCO,Cisco Systems Inc,128.9,NTSL,Netsolve Inc
+2004-09-13,split,CVX,Chevron Corp,2.0,N/A,
+2004-08-31,acquisitionof,GE,General Electric Co,238.8,BHAG,Bha Group Inc
+2004-07-29,acquisitionof,UNH,Unitedhealth Group Inc,4612.6,OHP,Oxford Health Plans Inc
+2004-06-30,acquisitionof,JPM,Jpmorgan Chase & Co,60250.5,ONE1,Bank One Corp
+2004-06-21,split,PG,Procter & Gamble Co,2.0,N/A,
+2004-04-05,tickerchangeto,TRV,Travelers Companies Inc,,STA,
+2004-04-05,tickerchangefrom,TRV,Travelers Companies Inc,,SPC,
+2004-04-01,acquisitionof,TRV,Travelers Companies Inc,17546.8,TAPB,Travelers Property Casualty Corp
+2004-02-10,acquisitionof,UNH,Unitedhealth Group Inc,3202.3,MME,Mid Atlantic Medical Services Inc
+2004-02-10,acquisitionof,PFE,Pfizer Inc,1193.2,ESPR1,Esperion Therapeutics Inc
+2004-01-12,acquisitionof,GE,General Electric Co,63.5,HDR,Hpsc Inc
+2004-01-12,acquisitionof,CSCO,Cisco Systems Inc,77.6,LATD,Latitude Communications Inc
+2003-11-18,acquisitionof,GE,General Electric Co,4174.2,INMRY,Instrumentarium Corp
+2003-09-30,split,MMM,3M Co,2.0,N/A,
+2003-06-19,split,UNH,Unitedhealth Group Inc,2.0,N/A,
+2003-04-15,acquisitionof,PFE,Pfizer Inc,58386.6,PHA,Pharmacia Corp
+2003-03-28,acquisitionof,JNJ,Johnson & Johnson,129.9,DDDP,3 Dimensional Pharmaceuticals Inc
+2003-02-27,acquisitionof,GE,General Electric Co,259.4,OSM1,Osmonics Inc
+2003-02-20,acquisitionof,IBM,International Business Machines Corp,2052.0,RATL,Rational Software Corp
+2003-02-18,split,MSFT,Microsoft Corp,2.0,N/A,
+2003-02-10,acquisitionof,JNJ,Johnson & Johnson,100.6,OPHM,Orapharma Inc
+2002-12-11,acquisitionof,MSFT,Microsoft Corp,90.5,VCNT,Vicinity Corp
+2002-05-14,acquisitionof,GE,General Electric Co,2854.4,SCZ.B,Security Capital Group Inc
+2002-04-26,acquisitionof,GE,General Electric Co,1174.9,SUS,Storage Usa Inc
+2002-02-21,acquisitionof,GE,General Electric Co,759.1,ILXI,Interlogix Inc
+2002-01-11,acquisitionof,IBM,International Business Machines Corp,125.4,CWLD,Crossworlds Software Inc
+2001-12-19,acquisitionof,GE,General Electric Co,217.0,IMAT,Imatron Inc
+2001-12-12,acquisitionof,KO,Coca Cola Co,170.9,ODWA,Odwalla Inc
+2001-11-21,acquisitionof,JNJ,Johnson & Johnson,1286.9,IMA1,Inverness Medical Technology Inc
+2001-10-24,acquisitionof,GE,General Electric Co,5270.8,HF.A,Heller Financial Inc
+2001-10-09,acquisitionof,CVX,Chevron Corp,38438.3,TX1,Texaco Inc
+2001-10-01,tickerchangeto,CVX,Chevron Corp,,CVX,
+2001-10-01,tickerchangefrom,CVX,Chevron Corp,,CHV,
+2001-09-20,acquisitionof,GE,General Electric Co,66.8,DCCA,Data Critical Corp
+2001-08-10,acquisitionof,GE,General Electric Co,138.6,NBCI,Nbc Internet Inc
+2001-08-01,acquisitionof,GE,General Electric Co,1443.9,FFA1,Franchise Finance Corp Of America
+2001-07-19,split,XOM,Exxon Mobil Corp,2.0,N/A,
+2001-07-19,acquisitionof,MRK,Merck & Co Inc,507.2,RSTA,Rosetta Inpharmatics Inc
+2001-06-22,acquisitionof,JNJ,Johnson & Johnson,12246.2,AZA.A,Alza Corp
+2001-06-13,split,JNJ,Johnson & Johnson,2.0,N/A,
+2001-06-07,acquisitionof,IBM,International Business Machines Corp,78.1,MSPR,Mainspring Inc
+2001-04-18,acquisitionof,JNJ,Johnson & Johnson,74.9,HPRT,Heartport Inc
+2001-04-04,acquisitionof,MSFT,Microsoft Corp,1150.7,GPSI,Great Plains Software Inc
+2001-03-30,acquisitionof,AXP,American Express Co,108.3,BTOB,Sierracities Com Inc
+2001-03-13,acquisitionof,INTC,Intel Corp,752.2,XIRC,Xircom Inc
+2001-02-16,acquisitionof,MMM,3M Co,127.2,RNIC,Robinson Nugent Inc
+2001-02-14,acquisitionof,CSCO,Cisco Systems Inc,198.7,ACVC,Active Voice Corp
+2001-02-12,acquisitionof,MMM,3M Co,135.1,MTSI2,Microtouch Systems Inc
+2001-02-09,acquisitionof,UNH,Unitedhealth Group Inc,57.5,LMRK1,Lifemark Corp
+2001-02-06,acquisitionof,DD,Dupont De Nemours Inc,7064.0,UK1,Union Carbide Corp
+2000-12-26,split,UNH,Unitedhealth Group Inc,2.0,N/A,
+2000-08-31,acquisitionof,GE,General Electric Co,350.4,HRMN1,Harmon Industries Inc
+2000-08-08,acquisitionof,GE,General Electric Co,147.9,LUNR,Lunar Corp
+2000-07-31,split,INTC,Intel Corp,2.0,N/A,
+2000-06-30,acquisitionof,VZ,Verizon Communications Inc,59931.5,GTE1,Gte Corp
+2000-06-23,acquisitionof,CSCO,Cisco Systems Inc,4654.5,ARPT,Arrowpoint Communications Inc
+2000-06-21,split,AAPL,Apple Inc,2.0,N/A,
+2000-06-19,acquisitionof,PFE,Pfizer Inc,114865.7,WLA,Warner Lambert Co
+2000-06-19,split,DD,Dupont De Nemours Inc,3.0,N/A,
+2000-06-14,acquisitionof,MRK,Merck & Co Inc,222.3,PHS1,Provantage Health Services Inc
+2000-06-12,split,JPM,Jpmorgan Chase & Co,1.5,N/A,
+2000-05-11,split,AXP,American Express Co,3.0,N/A,
+2000-05-08,split,GE,General Electric Co,3.0,N/A,
+2000-04-17,acquisitionof,TRV,Travelers Companies Inc,190.8,MMI2,Mmi Companies Inc
+2000-03-23,split,CSCO,Cisco Systems Inc,2.0,N/A,
+2000-03-15,acquisitionof,CSCO,Cisco Systems Inc,1175.8,AIRO1,Aironet Wireless Communications Inc
+2000-02-11,acquisitionof,JNJ,Johnson & Johnson,68.7,IDEA1,Innovasive Devices Inc
+2000-02-11,acquisitionof,GE,General Electric Co,78.5,MECN,Mecon Inc
+2000-01-28,acquisitionof,GE,General Electric Co,23.7,SHO1,Showpower Inc
+2000-01-07,acquisitionof,MSFT,Microsoft Corp,1520.6,VSIO,Visio Corp
+1999-12-31,split,HD,Home Depot Inc,1.5,N/A,
+1999-12-09,acquisitionof,JPM,Jpmorgan Chase & Co,1222.2,HQ,Hambrecht & Quist Group
+1999-11-30,tickerchangefrom,XOM,Exxon Mobil Corp,,XON,
+1999-11-30,tickerchangeto,XOM,Exxon Mobil Corp,,XOM,
+1999-11-30,acquisitionof,XOM,Exxon Mobil Corp,81109.7,MOB,Mobil Corp
+1999-11-29,acquisitionof,GE,General Electric Co,441.2,OXE,Oec Medical Systems Inc
+1999-11-19,acquisitionof,INTC,Intel Corp,1459.1,DSP1,Dsp Communications Inc
+1999-11-12,acquisitionof,MRK,Merck & Co Inc,81.9,SIBI,Sibia Neurosciences Inc
+1999-10-06,acquisitionof,JNJ,Johnson & Johnson,4294.5,CNTO1,Centocor Inc
+1999-09-30,acquisitionof,PG,Procter & Gamble Co,213.8,REIN,Recovery Engineering Inc
+1999-09-28,acquisitionof,IBM,International Business Machines Corp,234.2,MYLX,Mylex Corp
+1999-09-24,acquisitionof,IBM,International Business Machines Corp,759.9,TEMPA,Sequent Computer Systems Inc
+1999-08-09,acquisitionof,INTC,Intel Corp,2473.0,LEVL1,Level One Communications Inc
+1999-07-01,split,PFE,Pfizer Inc,3.0,N/A,
+1999-06-24,acquisitionof,CSCO,Cisco Systems Inc,1674.5,GEOC,Geotel Communications Corp
+1999-06-22,split,CSCO,Cisco Systems Inc,2.0,N/A,
+1999-06-14,acquisitionof,GE,General Electric Co,3879.5,FORE,Fore Systems Inc
+1999-05-27,split,IBM,International Business Machines Corp,2.0,N/A,
+1999-05-04,listed,GS,Goldman Sachs Group Inc,32797.1,N/A,
+1999-04-20,split,WMT,Walmart Inc,2.0,N/A,
+1999-04-12,split,INTC,Intel Corp,2.0,N/A,
+1999-04-08,acquisitionof,GE,General Electric Co,1662.9,RLT.A,Reltec Corp
+1999-03-29,split,MSFT,Microsoft Corp,2.0,N/A,
+1999-03-17,acquisitionof,CVX,Chevron Corp,92.8,RMOC,Rutherford-Moran Oil Corp
+1999-03-08,split,MCD,Mcdonalds Corp,2.0,N/A,
+1999-02-26,acquisitionof,INTC,Intel Corp,181.6,SHVA,Shiva Corp
+1999-02-17,split,MRK,Merck & Co Inc,2.0,N/A,
+1999-02-17,acquisitionof,AXP,American Express Co,51.4,ROCF,Rockford Industries Inc
+1999-01-13,acquisitionof,GE,General Electric Co,89.4,TCPS,Total Control Products Inc
+1998-11-20,acquisitionof,GE,General Electric Co,837.4,MARQ,Marquette Medical Systems Inc
+1998-11-13,acquisitionof,JNJ,Johnson & Johnson,20.4,FMRX1,Femrx Inc
+1998-11-04,acquisitionof,CSCO,Cisco Systems Inc,115.5,SUMA,Summa Four Inc
+1998-10-30,acquisitionof,DD,Dupont De Nemours Inc,1012.9,MYCO,Mycogen Corp
+1998-10-29,acquisitionof,JNJ,Johnson & Johnson,3459.5,DPU1,Depuy Inc
+1998-09-16,split,CSCO,Cisco Systems Inc,1.5,N/A,
+1998-07-06,split,HD,Home Depot Inc,2.0,N/A,
+1998-06-30,split,VZ,Verizon Communications Inc,2.0,N/A,
+1998-06-15,split,JPM,Jpmorgan Chase & Co,2.0,N/A,
+1998-05-12,split,TRV,Travelers Companies Inc,2.0,N/A,
+1998-04-24,acquisitionof,TRV,Travelers Companies Inc,2788.6,FG1,Usf&G Corp
+1998-02-23,split,MSFT,Microsoft Corp,2.0,N/A,
